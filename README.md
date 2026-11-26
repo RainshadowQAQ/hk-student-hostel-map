@@ -2,7 +2,7 @@
 
 > **在线交互体验（手机 / 电脑浏览器直接打开）**：**[https://rainshadowqaq.github.io/hk-student-hostel-map/](https://rainshadowqaq.github.io/hk-student-hostel-map/)**
 
-将分散在香港各学生住宿运营商官网与香港城市规划委员会（TPB）公开记录中的零散信息，整理成手机和电脑浏览器打开即用的单页交互式情报地图。
+将分散在香港各学生住宿运营商官网与香港城市规划委员会（TPB）公开记录中的零散信息，整理成手机和电脑浏览器打开即用的单页交互式情报地图。本仓库是从个人日常工作流脱敏整理出的可运行模板，纯属个人vibe-coding存档，含水量100%，详见下文的AI介绍。
 
 ![香港学生公寓交互地图桌面预览](docs/preview.png)
 
